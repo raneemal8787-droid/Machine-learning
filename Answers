@@ -1,0 +1,11 @@
+Q1: Is this a Regression, Classification, or Clustering problem?
+A: This is a Regression problem, since the goal is to predict a continuous numerical value (the house price), not to assign it to a category or group it without predefined labels.
+
+Q2: Is there a target variable?
+A: Yes, the target variable is the house price, which is a continuous numerical value. Since the actual price is known for every house in the dataset, this is a supervised learning problem.
+
+Q3: What is the model expected to learn or predict?
+A: The model is expected to learn the relationship between a house's features (size, number of bedrooms and bathrooms, location, age, etc.) and its final sale price, so that it can predict the price of a new, unseen house based on its features.
+
+Q4: Write a short problem description in your own words (Problem Statement):
+A: Given a set of features describing a house — such as its size, number of bedrooms and bathrooms, location, and age — the goal is to build a regression model that predicts the house's sale price. This helps buyers, sellers, and real estate agents estimate a fair market value based on measurable property characteristics.
